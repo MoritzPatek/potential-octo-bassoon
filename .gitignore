@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Mac stuff
+.DS_Store
+
+# do you think i will share my data with you? nah man
+db.sqlite3
